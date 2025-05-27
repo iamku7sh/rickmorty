@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Intentionally added .env.local file to git, for ease of assissment testing
+
+Clone the project on local, then on command termial move to project and run these commands
+
 First, initial the dependancies:
 
 ```bash
